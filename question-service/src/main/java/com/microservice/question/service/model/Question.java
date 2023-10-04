@@ -7,6 +7,8 @@ import jakarta.persistence.Id;
 import lombok.Data;
 
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 @Entity
 public class Question {
 
