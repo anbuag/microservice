@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Service
-public class QuestionService {
+public class QuestionService  {
     @Autowired
     QuestionDao questionDao;
 
